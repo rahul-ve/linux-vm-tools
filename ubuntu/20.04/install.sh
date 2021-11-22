@@ -6,6 +6,7 @@
 #
 # Major thanks to: http://c-nergy.be/blog/?p=11336 for the tips.
 #
+# Also refer to https://www.nakivo.com/blog/install-ubuntu-20-04-on-hyper-v-with-enhanced-session/
 
 ###############################################################################
 # Use HWE kernel packages
